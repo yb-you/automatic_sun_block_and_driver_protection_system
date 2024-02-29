@@ -3,3 +3,5 @@ Development environment: Raspberrypi 4 Medel B
 MPU: Raspberrypi 4 Model B
 MCU: Arduino
 Language: Python, C
+
+Check!) Please unzip "shape_predictor_68_face_landmarks.zip"
